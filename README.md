@@ -11,7 +11,7 @@ Task Manager-ul este o aplicație de organizare a sarcinilor care facilitează g
 - **Adăugare de Noi Coloane:** Utilizatorii pot personaliza vizualizarea listei de sarcini prin adăugarea de noi coloane pentru informații suplimentare, cum ar fi responsabilul de sarcină sau progresul actual.
      ![image](https://github.com/allinanton/Project-Task-Manager-React/assets/61775219/9a818940-acd6-4d66-8514-c4d4bc2f3edb)
 - **Atribuirea la Mai Multe Categorii:** Utilizatorii pot atribui sarcinilor mai multe categorii pentru o organizare mai precisă și flexibilă.
-
+![image](https://github.com/allinanton/Project-Task-Manager-React/assets/61775219/043d42d3-00f5-40b3-8780-489a742ea562)
 - **Descriere și Prioritate:** Fiecare sarcină poate fi însoțită de o descriere detaliată și de o prioritate pentru o claritate și gestionare mai bune.
   
 - **Mutarea Task-urilor:** Utilizatorii au posibilitatea de a muta un task dintr-o coloană în alta pentru a reflecta stadiul actual al sarcinii.
