@@ -16,7 +16,6 @@ Task Manager-ul este o aplicație de organizare a sarcinilor care facilitează g
   
 - **Mutarea Task-urilor:** Utilizatorii au posibilitatea de a muta un task dintr-o coloană în alta pentru a reflecta stadiul actual al sarcinii.
 | ![image](https://github.com/allinanton/Project-Task-Manager-React/assets/61775219/2c2abf45-b88e-4ed2-8d5e-bce78ad1da95) | ![image](https://github.com/allinanton/Project-Task-Manager-React/assets/61775219/56b36d50-7bf0-4e87-8cdd-9f0de3e3cff4) |
-|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 - **Editare/Stergere a Task-urilor:** Utilizatorii pot edita sau șterge task-urile existente pentru a actualiza sau elimina informații nedorite.
 ![image](https://github.com/allinanton/Project-Task-Manager-React/assets/61775219/9770e6b6-e6f7-44fe-8edb-303b26d9831a)
 
